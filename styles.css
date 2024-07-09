@@ -1,1 +1,4 @@
 /* Building a Balance Sheet - CSS */
+html {
+    box-sizing: border-box;
+}
