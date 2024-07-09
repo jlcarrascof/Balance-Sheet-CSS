@@ -52,4 +52,6 @@ section {
     display: flex;
     justify-content: flex-end;
     position: sticky;
+    color: #fff;
+    background-color: #0a0a23;
 }
